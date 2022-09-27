@@ -117,40 +117,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Dutch - Netherlands" xml:space="preserve">
-    <value>Dutch - Netherlands</value>
+  <data name="Add Document" xml:space="preserve">
+    <value>Dodaj dokument</value>
   </data>
-  <data name="English" xml:space="preserve">
-    <value>English</value>
+  <data name="Cancel" xml:space="preserve">
+    <value>Anuluj</value>
   </data>
-  <data name="French" xml:space="preserve">
-    <value>French</value>
+  <data name="Description" xml:space="preserve">
+    <value>Opis</value>
   </data>
-  <data name="German" xml:space="preserve">
-    <value>German</value>
+  <data name="Document Type" xml:space="preserve">
+    <value>Typ dokumentu</value>
   </data>
-  <data name="Indonesia" xml:space="preserve">
-    <value>Indonesia</value>
+  <data name="Download" xml:space="preserve">
+    <value>Pobierz</value>
   </data>
-  <data name="Italian" xml:space="preserve">
-    <value>Italian</value>
+  <data name="Id" xml:space="preserve">
+    <value>Identyfikator</value>
   </data>
-  <data name="Khmer" xml:space="preserve">
-    <value>Khmer</value>
+  <data name="Is Public?" xml:space="preserve">
+    <value>Publiczny?</value>
   </data>
-  <data name="Russian" xml:space="preserve">
-    <value>Russian</value>
+  <data name="Save" xml:space="preserve">
+    <value>Zapisz</value>
   </data>
-  <data name="Spanish" xml:space="preserve">
-    <value>Spanish</value>
+  <data name="Title" xml:space="preserve">
+    <value>Tytuł</value>
   </data>
-  <data name="Swedish" xml:space="preserve">
-    <value>Swedish</value>
+  <data name="Update" xml:space="preserve">
+    <value>Zaktualizuj</value>
   </data>
-  <data name="Arabic" xml:space="preserve">
-    <value>عربي</value>
+  <data name="Update Document" xml:space="preserve">
+    <value>Zaktualizuj dokument</value>
   </data>
-  <data name="Polish" xml:space="preserve">
-    <value>Polski</value>
+  <data name="Upload" xml:space="preserve">
+    <value>Załaduj</value>
   </data>
 </root>

@@ -117,40 +117,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Dutch - Netherlands" xml:space="preserve">
-    <value>Dutch - Netherlands</value>
+  <data name="Description" xml:space="preserve">
+    <value>Opis</value>
   </data>
-  <data name="English" xml:space="preserve">
-    <value>English</value>
+  <data name="EntityCreatedBy" xml:space="preserve">
+    <value>Rekord Utworzony przez</value>
   </data>
-  <data name="French" xml:space="preserve">
-    <value>French</value>
+  <data name="EntityCreatedOn (Local)" xml:space="preserve">
+    <value>Rekord utworzony (Czasu lokalnego)</value>
   </data>
-  <data name="German" xml:space="preserve">
-    <value>German</value>
+  <data name="EntityCreatedOn (UTC)" xml:space="preserve">
+    <value>Rekord utworzony (Czasu UTC)</value>
   </data>
-  <data name="Indonesia" xml:space="preserve">
-    <value>Indonesia</value>
+  <data name="EntityId" xml:space="preserve">
+    <value>Id rekordu</value>
   </data>
-  <data name="Italian" xml:space="preserve">
-    <value>Italian</value>
+  <data name="EntityLastModifiedBy" xml:space="preserve">
+    <value>Rekord zaktualizowany przez</value>
   </data>
-  <data name="Khmer" xml:space="preserve">
-    <value>Khmer</value>
+  <data name="EntityLastModifiedOn (Local)" xml:space="preserve">
+    <value>Rekord zaktualizowany (Czasu lokalnego)</value>
   </data>
-  <data name="Russian" xml:space="preserve">
-    <value>Russian</value>
+  <data name="EntityLastModifiedOn (UTC)" xml:space="preserve">
+    <value>Rekord zaktualizowany (Czasu UTC)</value>
   </data>
-  <data name="Spanish" xml:space="preserve">
-    <value>Spanish</value>
+  <data name="ExternalId" xml:space="preserve">
+    <value>Identyfikator zewnętrzny</value>
   </data>
-  <data name="Swedish" xml:space="preserve">
-    <value>Swedish</value>
+  <data name="Group" xml:space="preserve">
+    <value>Grupa</value>
   </data>
-  <data name="Arabic" xml:space="preserve">
-    <value>عربي</value>
+  <data name="Id" xml:space="preserve">
+    <value>Identyfikator</value>
   </data>
-  <data name="Polish" xml:space="preserve">
-    <value>Polski</value>
+  <data name="IsActive" xml:space="preserve">
+    <value>Aktywny</value>
+  </data>
+  <data name="Key" xml:space="preserve">
+    <value>Klucz</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Typ</value>
+  </data>
+  <data name="Type should be valid" xml:space="preserve">
+    <value>Typ powinien być poprawny</value>
+  </data>
+  <data name="Value" xml:space="preserve">
+    <value>Wartość</value>
+  </data>
+  <data name="{0} Extended Attributes" xml:space="preserve">
+    <value>{0} Dodatkowych atrybutów</value>
   </data>
 </root>

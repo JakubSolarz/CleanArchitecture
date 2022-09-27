@@ -117,40 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Dutch - Netherlands" xml:space="preserve">
-    <value>Dutch - Netherlands</value>
+  <data name="chat" xml:space="preserve">
+    <value>chat</value>
   </data>
-  <data name="English" xml:space="preserve">
-    <value>English</value>
+  <data name="contacts" xml:space="preserve">
+    <value>kontakty</value>
   </data>
-  <data name="French" xml:space="preserve">
-    <value>French</value>
+  <data name="detailed guide for more." xml:space="preserve">
+    <value>więcej</value>
   </data>
-  <data name="German" xml:space="preserve">
-    <value>German</value>
+  <data name="Enter your message..." xml:space="preserve">
+    <value>Wpisz wiadomość</value>
   </data>
-  <data name="Indonesia" xml:space="preserve">
-    <value>Indonesia</value>
+  <data name="Logged In." xml:space="preserve">
+    <value>Zalogowany.</value>
   </data>
-  <data name="Italian" xml:space="preserve">
-    <value>Italian</value>
+  <data name="Logged Out." xml:space="preserve">
+    <value>Wylogowany.</value>
   </data>
-  <data name="Khmer" xml:space="preserve">
-    <value>Khmer</value>
+  <data name="New Message From {0}" xml:space="preserve">
+    <value>Nowa wiadomość od {0}</value>
   </data>
-  <data name="Russian" xml:space="preserve">
-    <value>Russian</value>
+  <data name="Send" xml:space="preserve">
+    <value>Wyślij</value>
   </data>
-  <data name="Spanish" xml:space="preserve">
-    <value>Spanish</value>
-  </data>
-  <data name="Swedish" xml:space="preserve">
-    <value>Swedish</value>
-  </data>
-  <data name="Arabic" xml:space="preserve">
-    <value>عربي</value>
-  </data>
-  <data name="Polish" xml:space="preserve">
-    <value>Polski</value>
+  <data name="Want to understand how Chat is implemented in BlazorHero ? Refer this" xml:space="preserve">
+    <value>Chcesz zrozumieć jak zaimplementowany jest chat? Zerknij tutaj.</value>
   </data>
 </root>

@@ -117,40 +117,64 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Dutch - Netherlands" xml:space="preserve">
-    <value>Dutch - Netherlands</value>
+  <data name="Account" xml:space="preserve">
+    <value>Konto</value>
   </data>
-  <data name="English" xml:space="preserve">
-    <value>English</value>
+  <data name="Buy Me A Coffee!" xml:space="preserve">
+    <value>Kup mi kawę!</value>
   </data>
-  <data name="French" xml:space="preserve">
-    <value>French</value>
+  <data name="Chat?" xml:space="preserve">
+    <value>Chat?</value>
   </data>
-  <data name="German" xml:space="preserve">
-    <value>German</value>
+  <data name="Community" xml:space="preserve">
+    <value>Społeczeństwo</value>
   </data>
-  <data name="Indonesia" xml:space="preserve">
-    <value>Indonesia</value>
+  <data name="Facebook Group" xml:space="preserve">
+    <value>Grupa Facebook</value>
   </data>
-  <data name="Italian" xml:space="preserve">
-    <value>Italian</value>
+  <data name="Facebook Page" xml:space="preserve">
+    <value>Strona Facebook</value>
   </data>
-  <data name="Khmer" xml:space="preserve">
-    <value>Khmer</value>
+  <data name="Fork Repository" xml:space="preserve">
+    <value>Zwidelcuj :) repozytorium</value>
   </data>
-  <data name="Russian" xml:space="preserve">
-    <value>Russian</value>
+  <data name="Logout" xml:space="preserve">
+    <value>Wyloguj</value>
   </data>
-  <data name="Spanish" xml:space="preserve">
-    <value>Spanish</value>
+  <data name="Logout Confirmation" xml:space="preserve">
+    <value>Czy napewno chcesz się wylogować?</value>
   </data>
-  <data name="Swedish" xml:space="preserve">
-    <value>Swedish</value>
+  <data name="MudBlazor Documentation" xml:space="preserve">
+    <value>Dokumentacja MudBlazor</value>
   </data>
-  <data name="Arabic" xml:space="preserve">
-    <value>عربي</value>
+  <data name="Quick-Start Guide" xml:space="preserve">
+    <value>Szybki start</value>
   </data>
-  <data name="Polish" xml:space="preserve">
-    <value>Polski</value>
+  <data name="Refreshed Token." xml:space="preserve">
+    <value>Odśwież token</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>Zasoby</value>
+  </data>
+  <data name="Support" xml:space="preserve">
+    <value>Pomoc</value>
+  </data>
+  <data name="Toggle Dark Mode" xml:space="preserve">
+    <value>Przełącz w tryb nocny</value>
+  </data>
+  <data name="Toggle right-to-left/left-to-right" xml:space="preserve">
+    <value>Przełącz lewy-prawy prawy-lewy</value>
+  </data>
+  <data name="Welcome {0}" xml:space="preserve">
+    <value>Witaj {0}</value>
+  </data>
+  <data name="You are logged out because the Permissions of one of your Roles have been updated." xml:space="preserve">
+    <value>Zostałeś wylogowany ponieważ uprawnienia do twoich ról zostały zaktualizowane.</value>
+  </data>
+  <data name="You are logged out because the user with your Token has been deleted." xml:space="preserve">
+    <value>Zostałeś wylogowany ponieważ token twojego użytkownika został usunięty.</value>
+  </data>
+  <data name="You are Logged Out." xml:space="preserve">
+    <value>Zostałeś wylogowany</value>
   </data>
 </root>

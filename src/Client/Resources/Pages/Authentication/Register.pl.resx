@@ -117,40 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Dutch - Netherlands" xml:space="preserve">
-    <value>Dutch - Netherlands</value>
+  <data name="Already have an account?" xml:space="preserve">
+    <value>Jesteś już zarejestrowany?</value>
   </data>
-  <data name="English" xml:space="preserve">
-    <value>English</value>
+  <data name="Confirm Password" xml:space="preserve">
+    <value>Potwierdź hasło</value>
   </data>
-  <data name="French" xml:space="preserve">
-    <value>French</value>
+  <data name="E-mail" xml:space="preserve">
+    <value>E-mail</value>
   </data>
-  <data name="German" xml:space="preserve">
-    <value>German</value>
+  <data name="First Name" xml:space="preserve">
+    <value>Imię</value>
   </data>
-  <data name="Indonesia" xml:space="preserve">
-    <value>Indonesia</value>
+  <data name="Last Name" xml:space="preserve">
+    <value>Nazwisko</value>
   </data>
-  <data name="Italian" xml:space="preserve">
-    <value>Italian</value>
+  <data name="Password" xml:space="preserve">
+    <value>Hasło</value>
   </data>
-  <data name="Khmer" xml:space="preserve">
-    <value>Khmer</value>
+  <data name="Phone Number" xml:space="preserve">
+    <value>Numer telefonu</value>
   </data>
-  <data name="Russian" xml:space="preserve">
-    <value>Russian</value>
+  <data name="Register" xml:space="preserve">
+    <value>Zarejestruj</value>
   </data>
-  <data name="Spanish" xml:space="preserve">
-    <value>Spanish</value>
+  <data name="Sign In" xml:space="preserve">
+    <value>Zaloguj</value>
   </data>
-  <data name="Swedish" xml:space="preserve">
-    <value>Swedish</value>
-  </data>
-  <data name="Arabic" xml:space="preserve">
-    <value>عربي</value>
-  </data>
-  <data name="Polish" xml:space="preserve">
-    <value>Polski</value>
+  <data name="User Name" xml:space="preserve">
+    <value>Użytkownik</value>
   </data>
 </root>

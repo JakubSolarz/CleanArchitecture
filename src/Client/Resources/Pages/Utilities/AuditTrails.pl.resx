@@ -117,40 +117,91 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Dutch - Netherlands" xml:space="preserve">
-    <value>Dutch - Netherlands</value>
+  <data name="Audit Trails" xml:space="preserve">
+    <value>Ścieżki audytu</value>
   </data>
-  <data name="English" xml:space="preserve">
-    <value>English</value>
+  <data name="Audit Trails exported" xml:space="preserve">
+    <value>Ścieżki audytu wyeksportowane</value>
   </data>
-  <data name="French" xml:space="preserve">
-    <value>French</value>
+  <data name="Bordered" xml:space="preserve">
+    <value>W ramcę</value>
   </data>
-  <data name="German" xml:space="preserve">
-    <value>German</value>
+  <data name="Cancel" xml:space="preserve">
+    <value>Anuluj</value>
   </data>
-  <data name="Indonesia" xml:space="preserve">
-    <value>Indonesia</value>
+  <data name="Clear" xml:space="preserve">
+    <value>Wyczyść</value>
   </data>
-  <data name="Italian" xml:space="preserve">
-    <value>Italian</value>
+  <data name="Columns Affected" xml:space="preserve">
+    <value>Kolumny</value>
   </data>
-  <data name="Khmer" xml:space="preserve">
-    <value>Khmer</value>
+  <data name="Date" xml:space="preserve">
+    <value>Data</value>
   </data>
-  <data name="Russian" xml:space="preserve">
-    <value>Russian</value>
+  <data name="Date Range For Searching" xml:space="preserve">
+    <value>zakres dat do przeszukania</value>
   </data>
-  <data name="Spanish" xml:space="preserve">
-    <value>Spanish</value>
+  <data name="Dense" xml:space="preserve">
+    <value>Gęstość</value>
   </data>
-  <data name="Swedish" xml:space="preserve">
-    <value>Swedish</value>
+  <data name="Details for Trail ID" xml:space="preserve">
+    <value>Szczegóły ścieżki o identyfikatorze</value>
   </data>
-  <data name="Arabic" xml:space="preserve">
-    <value>عربي</value>
+  <data name="Export To Excel" xml:space="preserve">
+    <value>Wyeksportuj do excel</value>
   </data>
-  <data name="Polish" xml:space="preserve">
-    <value>Polski</value>
+  <data name="Filtered Audit Trails exported" xml:space="preserve">
+    <value>Ścieżki audytu wyeksportowany</value>
+  </data>
+  <data name="Hide" xml:space="preserve">
+    <value>Ukryj</value>
+  </data>
+  <data name="Id" xml:space="preserve">
+    <value>Identyfikator</value>
+  </data>
+  <data name="Local" xml:space="preserve">
+    <value>Localne</value>
+  </data>
+  <data name="New Values" xml:space="preserve">
+    <value>Nowe wartości</value>
+  </data>
+  <data name="Ok" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="Old Values" xml:space="preserve">
+    <value>Stare wartości</value>
+  </data>
+  <data name="Primary Key" xml:space="preserve">
+    <value>Klucz główny</value>
+  </data>
+  <data name="Search for Trails" xml:space="preserve">
+    <value>Przeszukaj ścieżki</value>
+  </data>
+  <data name="Search in New Values" xml:space="preserve">
+    <value>Szukaj w nowych wartościach</value>
+  </data>
+  <data name="Search in Old Values" xml:space="preserve">
+    <value>Szukaj w starych wartościach</value>
+  </data>
+  <data name="Show" xml:space="preserve">
+    <value>Pokaż</value>
+  </data>
+  <data name="Striped" xml:space="preserve">
+    <value>W paski</value>
+  </data>
+  <data name="Table Name" xml:space="preserve">
+    <value>Nazwa tabeli</value>
+  </data>
+  <data name="Trail Details" xml:space="preserve">
+    <value>Szczegóły</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Typ</value>
+  </data>
+  <data name="UTC" xml:space="preserve">
+    <value>UTC</value>
+  </data>
+  <data name="Your Recent Activities." xml:space="preserve">
+    <value>Twoje obecne działania</value>
   </data>
 </root>

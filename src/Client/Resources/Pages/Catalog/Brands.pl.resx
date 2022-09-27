@@ -117,40 +117,70 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Dutch - Netherlands" xml:space="preserve">
-    <value>Dutch - Netherlands</value>
+  <data name="Actions" xml:space="preserve">
+    <value>Akcje</value>
   </data>
-  <data name="English" xml:space="preserve">
-    <value>English</value>
+  <data name="Add Brand" xml:space="preserve">
+    <value>Dodaj markę</value>
   </data>
-  <data name="French" xml:space="preserve">
-    <value>French</value>
+  <data name="Bordered" xml:space="preserve">
+    <value>W ramcę</value>
   </data>
-  <data name="German" xml:space="preserve">
-    <value>German</value>
+  <data name="Brands" xml:space="preserve">
+    <value>Marka</value>
   </data>
-  <data name="Indonesia" xml:space="preserve">
-    <value>Indonesia</value>
+  <data name="Brands exported" xml:space="preserve">
+    <value>Marka wyeksportowana</value>
   </data>
-  <data name="Italian" xml:space="preserve">
-    <value>Italian</value>
+  <data name="Create" xml:space="preserve">
+    <value>Utwórz</value>
   </data>
-  <data name="Khmer" xml:space="preserve">
-    <value>Khmer</value>
+  <data name="Delete" xml:space="preserve">
+    <value>Usuń</value>
   </data>
-  <data name="Russian" xml:space="preserve">
-    <value>Russian</value>
+  <data name="Delete Content" xml:space="preserve">
+    <value>Usuń zawartość</value>
   </data>
-  <data name="Spanish" xml:space="preserve">
-    <value>Spanish</value>
+  <data name="Dense" xml:space="preserve">
+    <value>Gęstość</value>
   </data>
-  <data name="Swedish" xml:space="preserve">
-    <value>Swedish</value>
+  <data name="Description" xml:space="preserve">
+    <value>Opis</value>
   </data>
-  <data name="Arabic" xml:space="preserve">
-    <value>عربي</value>
+  <data name="Edit" xml:space="preserve">
+    <value>Edycja</value>
   </data>
-  <data name="Polish" xml:space="preserve">
-    <value>Polski</value>
+  <data name="Export" xml:space="preserve">
+    <value>Export</value>
+  </data>
+  <data name="Filtered Brands exported" xml:space="preserve">
+    <value>Wyeksportowano marki</value>
+  </data>
+  <data name="Id" xml:space="preserve">
+    <value>Identyfikator</value>
+  </data>
+  <data name="Import" xml:space="preserve">
+    <value>Import</value>
+  </data>
+  <data name="Manage Brands." xml:space="preserve">
+    <value>Zarządzaj markami.</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Nazwa</value>
+  </data>
+  <data name="No Allowed Actions" xml:space="preserve">
+    <value>Nie ma dozwolonych akcji</value>
+  </data>
+  <data name="Reload" xml:space="preserve">
+    <value>Przeładuj</value>
+  </data>
+  <data name="Search for Brands" xml:space="preserve">
+    <value>Przeszukaj marki</value>
+  </data>
+  <data name="Striped" xml:space="preserve">
+    <value>W paski</value>
+  </data>
+  <data name="Tax" xml:space="preserve">
+    <value>Podatek</value>
   </data>
 </root>

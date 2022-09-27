@@ -117,40 +117,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Dutch - Netherlands" xml:space="preserve">
-    <value>Dutch - Netherlands</value>
+  <data name="Role Claim does not exist." xml:space="preserve">
+    <value>Uprawnienie roli nie istnieje.</value>
   </data>
-  <data name="English" xml:space="preserve">
-    <value>English</value>
+  <data name="Role Claim {0} created." xml:space="preserve">
+    <value>Uprawnienie roli {0} utworzone.</value>
   </data>
-  <data name="French" xml:space="preserve">
-    <value>French</value>
+  <data name="Role Claim {0} for Role {1} updated." xml:space="preserve">
+    <value>Uprawnienie {0} dla roli {1} zaktualizoane.</value>
   </data>
-  <data name="German" xml:space="preserve">
-    <value>German</value>
+  <data name="Role Claim {0} for {1} Role deleted." xml:space="preserve">
+    <value>Uprawnienie {0} dla roli {1} usunięte.</value>
   </data>
-  <data name="Indonesia" xml:space="preserve">
-    <value>Indonesia</value>
+  <data name="Role is required." xml:space="preserve">
+    <value>Rola jest wymagana.</value>
   </data>
-  <data name="Italian" xml:space="preserve">
-    <value>Italian</value>
-  </data>
-  <data name="Khmer" xml:space="preserve">
-    <value>Khmer</value>
-  </data>
-  <data name="Russian" xml:space="preserve">
-    <value>Russian</value>
-  </data>
-  <data name="Spanish" xml:space="preserve">
-    <value>Spanish</value>
-  </data>
-  <data name="Swedish" xml:space="preserve">
-    <value>Swedish</value>
-  </data>
-  <data name="Arabic" xml:space="preserve">
-    <value>عربي</value>
-  </data>
-  <data name="Polish" xml:space="preserve">
-    <value>Polski</value>
+  <data name="Similar Role Claim already exists." xml:space="preserve">
+    <value>Podobne uprawnienie roli już istnieje.</value>
   </data>
 </root>

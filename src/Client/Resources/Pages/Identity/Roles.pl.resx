@@ -117,40 +117,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Dutch - Netherlands" xml:space="preserve">
-    <value>Dutch - Netherlands</value>
+  <data name="Actions" xml:space="preserve">
+    <value>Akcje</value>
   </data>
-  <data name="English" xml:space="preserve">
-    <value>English</value>
+  <data name="Bordered" xml:space="preserve">
+    <value>W ramcę</value>
   </data>
-  <data name="French" xml:space="preserve">
-    <value>French</value>
+  <data name="Create" xml:space="preserve">
+    <value>Utwórz</value>
   </data>
-  <data name="German" xml:space="preserve">
-    <value>German</value>
+  <data name="Delete" xml:space="preserve">
+    <value>Usuń</value>
   </data>
-  <data name="Indonesia" xml:space="preserve">
-    <value>Indonesia</value>
+  <data name="Delete Content" xml:space="preserve">
+    <value>Czy chesz usunąć rolę o identyfikatorze {0}?</value>
   </data>
-  <data name="Italian" xml:space="preserve">
-    <value>Italian</value>
+  <data name="Dense" xml:space="preserve">
+    <value>Gęstość</value>
   </data>
-  <data name="Khmer" xml:space="preserve">
-    <value>Khmer</value>
+  <data name="Description" xml:space="preserve">
+    <value>Opis</value>
   </data>
-  <data name="Russian" xml:space="preserve">
-    <value>Russian</value>
+  <data name="Edit" xml:space="preserve">
+    <value>Aktualizuj</value>
   </data>
-  <data name="Spanish" xml:space="preserve">
-    <value>Spanish</value>
+  <data name="Id" xml:space="preserve">
+    <value>Identyfikator</value>
   </data>
-  <data name="Swedish" xml:space="preserve">
-    <value>Swedish</value>
+  <data name="Manage Permission" xml:space="preserve">
+    <value>Zarządzaj uprawnieniami</value>
   </data>
-  <data name="Arabic" xml:space="preserve">
-    <value>عربي</value>
+  <data name="Manage Roles." xml:space="preserve">
+    <value>Zarządzaj rolami</value>
   </data>
-  <data name="Polish" xml:space="preserve">
-    <value>Polski</value>
+  <data name="No Allowed Actions" xml:space="preserve">
+    <value>Nie ma żadnych akcji</value>
+  </data>
+  <data name="Reload" xml:space="preserve">
+    <value>Odśwież</value>
+  </data>
+  <data name="Role" xml:space="preserve">
+    <value>Rola</value>
+  </data>
+  <data name="Roles" xml:space="preserve">
+    <value>Role</value>
+  </data>
+  <data name="Search for Roles..." xml:space="preserve">
+    <value>Przeszukaj role</value>
+  </data>
+  <data name="Striped" xml:space="preserve">
+    <value>W paski</value>
   </data>
 </root>
