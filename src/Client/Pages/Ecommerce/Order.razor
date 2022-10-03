@@ -1,0 +1,37 @@
+﻿@page "/zamow-online"
+@inject Microsoft.Extensions.Localization.IStringLocalizer<Order> _localizer
+
+<style>
+    .mud-table-container {
+        overflow: auto;
+    }
+</style>
+
+<HeroTitle Title="@_localizer["Order"]" Description="@_localizer["Test Order."]" />
+@if (!_loaded)
+{
+    <MudProgressCircular Color="Color.Primary" Indeterminate="true" />
+}
+else
+{
+    <MudGrid Spacing="2" Justify="Justify.Center">
+        @foreach(var brand in _brandList)
+        {
+            <MudItem>
+                <MudCard Height="140px" Width="140px">
+                    <MudCardContent>
+                        <MudText>@brand.Name</MudText>
+                        <MudText Typo="Typo.body2">@brand.Description</MudText>
+                    </MudCardContent>
+                    <MudCardActions>
+                        <MudButton Href="/kwiaty/"
+                            Variant="Variant.Outlined"
+                            Color="Color.Tertiary">
+                            Zobacz
+                        </MudButton>
+                    </MudCardActions>
+                </MudCard>
+            </MudItem>
+        }
+    </MudGrid>
+}

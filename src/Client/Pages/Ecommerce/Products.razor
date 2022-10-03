@@ -1,0 +1,33 @@
+﻿@page "/kwiaty/{Id}"
+@inject Microsoft.Extensions.Localization.IStringLocalizer<Products> _localizer
+
+<style>
+    .mud-table-container {
+        overflow: auto;
+    }
+</style>
+
+<HeroTitle Title="@_localizer["Products"]" Description="@_localizer["Test Products."]" />
+@if (!_loaded)
+{
+    <MudProgressCircular Color="Color.Primary" Indeterminate="true" />
+}
+else
+{
+    <MudGrid Spacing="2" Justify="Justify.Center">
+        @foreach (var product in _productList)
+        {
+            <MudItem>
+                <MudCard Height="140px" Width="140px">
+                    <MudCardContent>
+                        <MudText>@product.Name</MudText>
+                        <MudText Typo="Typo.body2">@product.Description</MudText>
+                    </MudCardContent>
+                    <MudCardActions>
+                        <MudButton Variant="Variant.Text" Color="Color.Primary">Zamow</MudButton>
+                    </MudCardActions>
+                </MudCard>
+            </MudItem>
+        }
+    </MudGrid>
+}
